@@ -59,5 +59,10 @@ namespace GitTest.Controllers
         {
             
         }
+
+        public void passout()
+        {
+
+        }
     }
 }
