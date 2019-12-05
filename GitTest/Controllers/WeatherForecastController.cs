@@ -55,6 +55,11 @@ namespace GitTest.Controllers
 
         }
 
+        public void alternative()
+        {
+            
+        }
+
         public void TestMethod() 
         { 
             
