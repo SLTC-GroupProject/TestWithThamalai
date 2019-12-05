@@ -35,5 +35,10 @@ namespace GitTest.Controllers
             })
             .ToArray();
         }
+
+        public void TestMethod() 
+        { 
+            
+        }
     }
 }
